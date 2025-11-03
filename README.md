@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IFCD99 - Programación en Inteligencia Artificial y Big Data en Entornos 5G
 
 Bienvenido/a al repositorio del curso **IFCD99 - Programación en Inteligencia Artificial y Big Data Aplicables en Entornos 5G**.
@@ -68,7 +67,3 @@ Cada carpeta puede incluir:
 ---
 
 > Este repositorio se actualizará continuamente con todos los recursos y proyectos realizados durante el curso.
-=======
-# ia-bigdata-entornos5g
-Curso IFCD99: IA y Big Data en entornos 5G – ejercicios, proyectos y materiales.
->>>>>>> 97631a7ba90798acc59c5fa81884a14f0855a36c
