@@ -4,9 +4,11 @@ Bienvenido/a al repositorio del curso **IFCD99 - Programación en Inteligencia A
 
 Este repositorio tiene como objetivo centralizar todos los contenidos, prácticas y proyectos desarrollados a lo largo del curso, permitiendo un acceso organizado y colaborativo a los recursos del mismo.
 
+```text
 Inicio del curso 30 octubre de 2025
 Fin del curso 22 diciembre de 2025
 (150 horas)
+```
 
 ---
 
@@ -51,11 +53,13 @@ Planificar y desarrollar programas de inteligencia artificial y Big Data en ento
 
 Se recomienda organizar el repositorio con carpetas por módulos, por ejemplo:
 
+```text
 /Modulo-1_Seguridad-5G
 /Modulo-2_Java
 /Modulo-3_BI
 /Modulo-4_IA-BigData
 /Proyectos
+```
 
 Cada carpeta puede incluir:
 
