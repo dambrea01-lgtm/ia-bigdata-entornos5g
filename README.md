@@ -1,5 +1,9 @@
 # IFCD99 - Programación en Inteligencia Artificial y Big Data en Entornos 5G
 
+![banner](assets/banner.png)
+
+<br/>
+
 Bienvenido/a al repositorio del curso **IFCD99 - Programación en Inteligencia Artificial y Big Data Aplicables en Entornos 5G**.
 
 Este repositorio tiene como objetivo centralizar todos los contenidos, prácticas y proyectos desarrollados a lo largo del curso, permitiendo un acceso organizado y colaborativo a los recursos del mismo.
@@ -10,7 +14,9 @@ Fin del curso 22 diciembre de 2025
 (150 horas)
 ```
 
----
+<br/>
+<hr/>
+<br/>
 
 ## 📖 Presentación
 
@@ -18,7 +24,9 @@ Este curso forma parte del **Plan de Formación 2022 de la Junta de Andalucía**
 
 El curso combina teleformación con sesiones presenciales y cuenta con la participación de expertos en inteligencia artificial, Big Data y tecnología 5G.
 
----
+<br/>
+<hr/>
+<br/>
 
 ## 🎯 Objetivos
 
@@ -35,7 +43,9 @@ Planificar y desarrollar programas de inteligencia artificial y Big Data en ento
 
 - Realizar proyectos de Inteligencia Artificial y Big Data aplicados a tecnologías 5G.
 
----
+<br/>
+<hr/>
+<br/>
 
 ## 📚 Contenidos del curso
 
@@ -47,27 +57,20 @@ Planificar y desarrollar programas de inteligencia artificial y Big Data en ento
 | Proyecto de Inteligencia Artificial y Big Data             | 30 + 30 presenciales |
 | **Total**                                                  | **150 horas**        |
 
----
+<br/>
+<hr/>
+<br/>
 
-## 📂 Estructura del repositorio
+> Actualmente en el curso estamos estudiando **Pentaho** para analizar datos y el **lenguaje R** para representar los gráficos en un dashboard.
 
-Se recomienda organizar el repositorio con carpetas por módulos, por ejemplo:
+En la siguiente imagen le muestro un ejemplo basico de lo que estamos aprendiendo sobre el uso de pentaho.
 
-```text
-/Modulo-1_Seguridad-5G
-/Modulo-2_Java
-/Modulo-3_BI
-/Modulo-4_IA-BigData
-/Proyectos
-```
+<br />
 
-Cada carpeta puede incluir:
+![ejemplo pentaho](assets/pentaho.png)
 
-- Ejercicios y prácticas
-- Notas personales
-- Proyectos y desarrollos
-- Documentación adicional
-
----
+<br/>
+<hr/>
+<br/>
 
 > Este repositorio se actualizará continuamente con todos los recursos y proyectos realizados durante el curso.
